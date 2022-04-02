@@ -29,9 +29,10 @@ a{
   position: absolute;
   width: 317px;
   height: 417px;
-  left: 136px;
+  left: 116px;
   top: 44px;
   border-radius: 10px 10px 0px 0px;
+  background-color: black;
 }
 
 .main{
@@ -143,7 +144,7 @@ text-align: center;
   width: 317px;
   height: 64px;
   left: 116px;
-  top: 800px;
+  top: 810px;
   position: absolute;
   background: #161619;
   border-radius: 0px 0px 10px 10px;
